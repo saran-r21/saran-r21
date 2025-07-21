@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saran-r21
 - 👀 I’m interested in using my skills to solve real world problems
-- 🌱 I’m currently pursuing Computer Engineering.  
+- 🌱 I’m a Master's Graduate in Computer Engineering  
 - 📫 How to reach me: saranramaswamy21@gmail.com
 
 <!---
